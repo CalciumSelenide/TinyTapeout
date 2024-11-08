@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This chip design is rather simple - it takes four inputs and a clock signal to drive four signal paths at the speed of the clock. 
+This tile design is rather simple - an 8:3 oncoder with the ability to invert the output if desired
 
 ## How to test
 
-Hook up a clock signal and four inputs, then power and test. 
+Provide 8 signals, and then watch the 3 outputs
 
 ## External hardware
 
-On your four signal outputs, hook up either a 7 segment display or leds. This will give a visual indicator of the signals changing at the speed of the clock.
+On your signal outputs, hook up leds. This will give a visual indicator of the signals changing.
