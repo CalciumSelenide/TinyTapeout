@@ -12,7 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 This tile design is an active high 7:3 encoder, capable of inverting its output. Reference both the gate diagram and logic table below.
 
 <p align="left">
-  <img src="7-3 Encoder.jpg" width="400"/>
+  <img src="7-3 Encoder.png" width="400"/>
 </p>
 
 | IN 0 | IN 1 | IN 2 | IN 3 | IN 4 | IN 5 | IN 6 | OUT 0 | OUT 1 | OUT 3 |
